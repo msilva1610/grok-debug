@@ -171,4 +171,5 @@ Depois de alguns testes entendi que:
 - No resultado acima está aparecendo BASE10 NUM. Isso deve ser causado por problema com valores em branco onde a configuração está se perdendo
 - O nome dos campos do GROK tornam-se variáveis. Não repetir o campo.
 
-
+## Referência
+- Estudar na próxima vez [grok filter] (https://www.elastic.co/guide/en/logstash/current/plugins-filters-grok.html)
