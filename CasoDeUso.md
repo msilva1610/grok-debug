@@ -172,4 +172,4 @@ Depois de alguns testes entendi que:
 - O nome dos campos do GROK tornam-se variáveis. Não repetir o campo.
 
 ## Referência
-- Estudar na próxima vez [grok filter] (https://www.elastic.co/guide/en/logstash/current/plugins-filters-grok.html)
+- Estudar na próxima vez [grok filter](https://www.elastic.co/guide/en/logstash/current/plugins-filters-grok.html)
